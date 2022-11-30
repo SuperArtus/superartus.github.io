@@ -1,2 +1,2 @@
 # superartus.github.io
-My web site
+Web site
